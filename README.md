@@ -1,9 +1,3 @@
-# Job-Schedular-Application
-
-Here's a description you can use for the README file on GitHub for your Job Scheduler application:
-
----
-
 # Job Scheduler Application
 
 This is a Job Scheduler application built using Python and PyQt5, designed to manage and schedule jobs with resource allocation. The application features a simple login page, job selection, resource management, and visualization of the scheduling results.
